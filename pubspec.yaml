@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  http: ^0.13.3
-  get: ^4.3.4
+  dio: ^4.0.0 # Rest Client
+  get: ^4.3.4 # State Management ++
 
 dev_dependencies:
   flutter_test:
